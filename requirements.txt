@@ -1,0 +1,6 @@
+black>=19.3b0, <=22.12
+isort>=5.7
+nbqa>=1.9
+pandas>=2
+pre-commit>=2.13
+scikit-learn<=1.5.2
